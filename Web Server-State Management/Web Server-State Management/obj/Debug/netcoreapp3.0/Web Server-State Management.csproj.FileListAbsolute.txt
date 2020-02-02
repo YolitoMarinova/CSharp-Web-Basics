@@ -1,0 +1,12 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\bin\Debug\netcoreapp3.0\Web Server-State Management.exe
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\bin\Debug\netcoreapp3.0\Web Server-State Management.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\bin\Debug\netcoreapp3.0\Web Server-State Management.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\bin\Debug\netcoreapp3.0\Web Server-State Management.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\bin\Debug\netcoreapp3.0\Web Server-State Management.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\bin\Debug\netcoreapp3.0\Web Server-State Management.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\obj\Debug\netcoreapp3.0\Web Server-State Management.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\obj\Debug\netcoreapp3.0\Web Server-State Management.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\obj\Debug\netcoreapp3.0\Web Server-State Management.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\obj\Debug\netcoreapp3.0\Web Server-State Management.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\obj\Debug\netcoreapp3.0\Web Server-State Management.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Web Basics\Web Server-State Management\Web Server-State Management\bin\Debug\netcoreapp3.0\StartUp.cs
