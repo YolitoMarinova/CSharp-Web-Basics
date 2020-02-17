@@ -100,7 +100,7 @@ namespace SharedTrip.Controllers
 
             if (this.tripsService.IsUserAlreadyJoinedToATrip(this.User, tripId))
             {
-                return this.Error("This user is already add to the trip!");
+                return this.Redirect("Details?tripId=" + tripId);
             }
 
             this.tripsService.JoinUserToTrip(this.User, tripId);
